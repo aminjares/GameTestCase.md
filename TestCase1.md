@@ -3,9 +3,9 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #
 * Test Case Name:
-  * #Number
+  * #
 * Component: 
   * Description
 * Test Case Designer:
